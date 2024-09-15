@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+div{
+    height: 300px;
+    width: 400px;
+    background-color: aquamarine;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+h2{
+    font-size: smaller;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 110px;
+}
+.ok{
+    background-color: blueviolet;
+    height: 260px;
+    width: 110px;
+}
+img{
+    height: 60px;
+    width: 60px;
+}
+h1{
+    text-align: center;
+}
+.kot{
+    height: 85px;
+}
+.f1{
+    background-color: blue;
+    height: 260px;
+    width: 210px;
+    position:relative;
+}
+.f2{
+    background-color: rgb(172, 215, 236);
+    height: 100px;
+    margin-top: 10px;
+}
+.f4{
+    width: 140px;
+    height: 90px;
+}
+.f5{
+    width: 140px;
+    height: 90px;
+    background-color: rgb(234, 105, 124);
+}
